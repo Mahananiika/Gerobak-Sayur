@@ -40,9 +40,17 @@
 #right{
     float: right;
     margin-top: -1500px;
-    width: 300px;
+    width: 330px;
+    background-color: wheat;
 }
 
+.footer{
+    float: inline-end;
+    background-color: cornsilk;
+    margin-right: 100px;
+    width: 1200px;
+
+}
     
 
 
